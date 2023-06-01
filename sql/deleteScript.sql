@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS customer cascade;
+DROP TABLE IF EXISTS movie_genres cascade;
+DROP TABLE IF EXISTS genres cascade;
+DROP TABLE IF EXISTS movies cascade;
+DROP TABLE IF EXISTS movie_genres cascade;
+DROP TABLE IF EXISTS theater cascade;
+DROP TABLE IF EXISTS screening cascade;
+DROP TABLE IF EXISTS reservations cascade;
+DROP TABLE IF EXISTS seat cascade;
